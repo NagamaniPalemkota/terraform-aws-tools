@@ -1,5 +1,5 @@
 variable "zone_name" {
   type        = string
-  default     = "daws78s.online"
+  default     = "muvva.online"
   description = "description"
 }
